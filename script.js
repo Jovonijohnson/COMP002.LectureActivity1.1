@@ -20,5 +20,5 @@ appendResult(`"5" + 1 = ${"5" + 1}`);
 appendResult(`"five" * 2 = ${"five" * 2}`); 
 appendResult(`false == 0 = ${false == 0}`); 
 appendResult(`5 > 2 && 6 > 3 = ${5 > 2 && 6 > 3}`); 
-appendResult(`false == false ? "equal" : "not equal" = ${false == false ? "equal" : "not equal"}`); 
+appendResult(`false == false ? "equal" : "not equal" = ${false == false ? "equal" : "not equal"}`);
 appendResult(`true || false = ${true || false}`); /* Displays the same information shown from browser */
